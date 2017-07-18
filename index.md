@@ -1,10 +1,10 @@
 ## Sensing The Environment
 
-**The Goal(s):
+**The Goal(s):**
 
-**Design and build sensor kits to gather environmental data; use techniques of data science (deep learning) to analyse and interpret the data that we collect; and discover and tell the hidden stories about these species and spaces through virtual/augmented/mixed reality.
+**Design and build sensor kits to gather environmental data; use techniques of data science (deep learning) to analyse and interpret the data that we collect; and discover and tell the hidden stories about these species and spaces through virtual/augmented/mixed reality.**
 
-**If you'd like to join us for any part of the project, please fill in the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScTNxteeEh9IDyZ1IKpFbsVLDmX8_wpJ85FPkn2K6Pn-vygRQ/viewform?usp=sf_link).
+**If you'd like to join us for any part of the project, please fill in the form linked [here]**(https://docs.google.com/forms/d/e/1FAIpQLScTNxteeEh9IDyZ1IKpFbsVLDmX8_wpJ85FPkn2K6Pn-vygRQ/viewform?usp=sf_link).
 
 ## The First Project: Acoustic monitoring
 
