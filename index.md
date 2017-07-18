@@ -4,6 +4,8 @@ The Goal(s):
 
 Design and build sensor kits to gather environmental data; use techniques of data science (deep learning) to analyse and interpret the data that we collect; and discover and tell the hidden stories about these species and spaces through virtual/augmented/mixed reality.
 
+If you'd like to join us for any part of the project, please fill in the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScTNxteeEh9IDyZ1IKpFbsVLDmX8_wpJ85FPkn2K6Pn-vygRQ/viewform?usp=sf_link).
+
 ## The First Project: Acoustic monitoring
 
 Design and build a prototype for a kit to detect, track, and identify migrating birds and bats through sound. We currently have very little data for the region and while there are wonderful operational devices in existence, new technology and creative minds like you can create a mobile, (wireless), self-sustaining version we can use on rooftops, windows, all over Portland and the Pacific Northwest. Ideally, the new device would be battery-powered (with solar recharging, even better), and the system could record every sound onto a thumb drive or send it wirelessly to the cloud. Come play, experiment in collaborative teams, and create an amazing device that allows us to discover the birds and bats that inhabit and move through our region!
@@ -20,35 +22,13 @@ This will be a joint endeavor between students, educators, enthusiasts, industry
 
 ## Partners and Sponsors:
 
-Crowd Supply                     Intel                       PJRC
-
-Portland 3D Printing Lab                 Public Lab                      
-
+Crowd Supply
+Intel
+PJRC
+Portland 3D Printing Lab                 
+Public Lab                      
 Sandy River Basin Watershed Council
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
