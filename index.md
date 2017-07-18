@@ -22,9 +22,9 @@ This will be a joint endeavor between students, educators, enthusiasts, industry
 
 ## Partners and Sponsors:
 
-Crowd Supply
-Intel
-PJRC
-Portland 3D Printing Lab
-Public Lab
-Sandy River Basin Watershed Council
+-Crowd Supply
+-Intel
+-PJRC
+-Portland 3D Printing Lab
+-Public Lab
+-Sandy River Basin Watershed Council
