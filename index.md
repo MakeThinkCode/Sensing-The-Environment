@@ -20,7 +20,7 @@ We hope to deploy all these kits in the late summer and fall (for this season) a
 
 This will be a joint endeavor between students, educators, enthusiasts, industry professionals. If you'd like to join us for any part of the project, please fill in the form linked [here](https://docs.google.com/forms/d/e/1FAIpQLScTNxteeEh9IDyZ1IKpFbsVLDmX8_wpJ85FPkn2K6Pn-vygRQ/viewform?usp=sf_link). Please do share with anybody who might be interested.
 
-## Partners and Sponsors:
+## Partners and Sponsors
 
 Crowd Supply
 
